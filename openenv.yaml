@@ -1,0 +1,7 @@
+spec_version: 1
+name: rl_demo
+type: space
+runtime: fastapi
+app: rl_demo.server.app:app
+port: 7860
+
